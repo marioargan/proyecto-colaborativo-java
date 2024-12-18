@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("¡Hola, mundo desde Alumno C!");
+        System.out.println("¡Hola, mundo desde Alumno Juanpa!");
 
     }
 
